@@ -14,6 +14,9 @@ By transforming raw sales data into actionable insights, this project aims to as
 This dataset uses from Kaggle:  
 [Cafe Sales Data](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
 
+NOTE :
+Before importing cafe sales data into SQL, all error values in the Excel file were replace with NULL to simpilify data type
+recognition and ensure compatibility with SQL.
 ---
 
 ## 🎯 Purpose of the Project

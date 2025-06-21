@@ -8,7 +8,6 @@ By transforming raw sales data into actionable insights, this project aims to as
 
 ---
 
-![image](https://github.com/user-attachments/assets/d4c4fe4c-9a54-4223-b31a-7f96807790fe)
 
 ## 📂 Dataset
 
@@ -16,8 +15,6 @@ This dataset uses from Kaggle:
 [Cafe Sales Data](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
 
 ---
-
-![image](https://github.com/user-attachments/assets/25c14ff3-0230-41ef-b124-d0d17d5ad5a8)
 
 ## 🎯 Purpose of the Project
 
@@ -30,8 +27,6 @@ The primary goals of this project are to:
 
 ---
 
-![image](https://github.com/user-attachments/assets/26cb16f8-be38-4a29-bf26-c02f80eccbdd)
-
 ## 🛠️ SQL Techniques Used
 
 - **Data Cleaning**: `ISNULL()`, `COALESCE()`, `CASE`, conditional logic  
@@ -40,8 +35,6 @@ The primary goals of this project are to:
 - **Time Functions**: `FORMAT()`, `DATETRUNC()`, `MONTH()`
 
 ---
-
-![image](https://github.com/user-attachments/assets/931d160b-295b-47e8-b517-700fad8a60af)
 
 ## 🧹 Data Cleaning & Transformation Objectives
 
@@ -57,8 +50,6 @@ The primary goals of this project are to:
   - Insert only complete and logically correct rows into `orders_cafe`
 
 ---
-
-![image](https://github.com/user-attachments/assets/9090d651-1e8b-4221-b4ba-7b64a280f463)
 
 ## 📊 Exploratory Data Analysis (EDA)
 

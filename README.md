@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/d2bf071a-9504-4450-92f8-2a6004538fd9)
-
+## Cafe Sales Report
+By Ayuni Sevrilian - Sales analysis using SQL based on cafe transaction
+---
 ## 📘 About the Project
 
 This project focuses on analyzing transactional sales data collected from a cafe using structured SQL queries.  
